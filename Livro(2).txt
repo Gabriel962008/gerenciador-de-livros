@@ -1,0 +1,45 @@
+Ressurreicao,Machado de Assis,1872,0
+A mao e a luva, Machado de Assis,1874,0
+Helena,Machado de Assis, 1876,0
+Iaia,Machado de Assis,1878,0
+Memorias Postumas de Bras Cubas,Machado de Assis,1881,0
+Casa Velha,Machado de Assis,1885,0
+Quincas Borba,Machado de Assis,1891,0
+Dom Casmurro,Machado de Assis,1899,0
+Esau e Jaco,Machado de Assis,1904,0
+Memorial de Aires,Machado de Assis,1908,0
+A Rua dos Cataventos,Mario Quintana,1940,0
+Cancoes,Mario Quintana,1946,0
+Sapato Florido,Mario Quintana,1948,0
+O Aprendiz de Feiticeiro,Mario Quintana,1950,0
+Espelho Magico,Mario Quintana,1951,0
+Ineditos e Esparsos,Mario Quintana,1953,0
+Poesias,Mario Quintana,1962,0
+Caderno H,Mario Quintana,1973,0
+Apontamentos de Historia Sobrenatural,Mario Quintana,1976,0
+Quintanares,Mario Quintana,1976,0 
+A Vaca e o Hipogrifo,Mario Quintana,1977,0
+Esconderijos do Tempo,Mario Quintana,1980,0
+Bau de Espantos,Mario Quintana, 1986,0
+Preparativos de Viagem,Mario Quintana,1987,0
+Da Preguica como Metodo de Trabalho,Mario Quintana,1987,0
+Porta Giratoria,Mario Quintana,1988,0
+A Cor do Invisivel,Mario Quintana,1989,0
+Velorio Sem Defunto,Mario Quintana,1990,0
+Agua,Mario Quintana,2011,0
+Eu Passarinho,Mario Quintana,2006,0
+O Batalhao das Letras,Mario Quintana,1948,0
+Pe de Pilao,Mario Quintana,1968,0
+Lili inventa o Mundo,Mario Quintana,1983,0
+Crisalidas,Machado de Assis,1864,0
+Falenas,Machado de Assis,1870,0
+Americanas,Machado de Assis,1875,0
+Ocidentais,Machado de Assis,1880,0
+Poesias Completas,Machado de Assis,1901,0
+Contos Fluminenses,Machado de Assis,1870,0
+Historias da Meia-Noite,Machado de Assis,1873,0
+Papeis Avulsos,Machado de Assis,1882,0
+Historias sem Data,Machado de Assis,1884,0
+Varias Historias,Machado de Assis,1896,0
+Paginas Recolhidas,Machado de Assis,1899,0
+Reliquias da Casa Velha,Machado de Assis,1906,0
