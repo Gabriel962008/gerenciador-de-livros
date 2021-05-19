@@ -1,6 +1,10 @@
 # Gerenciador-de-livros
-Sistema gerenciados de livros, desenvolvido em linguagem c, utilizando uma árvore binária de pesquisa
-O projeto deve abordar aspectos como:
-  *Alocação de memória;
-  *estrutura de dados; 
-  *Em caso de árvore fator de balanceamento e demais funções.
+O projeto em questão simula a implementação de um sistema para gerenciados de livros desenvolvido com usa da linguagem c, e faz utilização de uma árvore binária de pesquisa para alocação de dados.
+
+## O projeto deve abordar os seguintes aspectos ##
+* Estrutura de dados; 
+* Alocação de memória;
+* Uso de ponteiros;
+* Recursividade.
+* Fator de balanceamento.
+* Iterção com usuário
